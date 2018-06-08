@@ -40,8 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddTwoNumbers.cs" />
-    <Compile Include="PermutationsII.cs" />
+    <Compile Include="2.AddTwoNumbers.cs" />
+    <Compile Include="389.FindtheDifference.cs" />
+    <Compile Include="47.PermutationsII.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
