@@ -69,6 +69,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="2.AddTwoNumbers.cs" />
     <Compile Include="389.Find the Difference.cs" />
+    <Compile Include="466.CountTheRepetitions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
