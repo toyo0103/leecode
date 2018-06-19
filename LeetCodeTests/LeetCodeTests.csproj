@@ -70,6 +70,7 @@
     <Compile Include="2.AddTwoNumbers.cs" />
     <Compile Include="389.Find the Difference.cs" />
     <Compile Include="466.CountTheRepetitions.cs" />
+    <Compile Include="458.PoorPigs.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -44,6 +44,7 @@
     <Compile Include="389.FindtheDifference.cs" />
     <Compile Include="47.PermutationsII.cs" />
     <Compile Include="466.CountTheRepetitions.cs" />
+    <Compile Include="458.PoorPigs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
