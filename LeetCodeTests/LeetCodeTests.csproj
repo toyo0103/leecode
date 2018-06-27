@@ -71,6 +71,7 @@
     <Compile Include="389.Find the Difference.cs" />
     <Compile Include="466.CountTheRepetitions.cs" />
     <Compile Include="458.PoorPigs.cs" />
+    <Compile Include="166.Fraction to Recurring Decimal.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

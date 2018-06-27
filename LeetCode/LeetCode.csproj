@@ -45,6 +45,7 @@
     <Compile Include="47.PermutationsII.cs" />
     <Compile Include="466.CountTheRepetitions.cs" />
     <Compile Include="458.PoorPigs.cs" />
+    <Compile Include="166.Fraction to Recurring Decimal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
